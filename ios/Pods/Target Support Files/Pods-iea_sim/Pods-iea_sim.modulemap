@@ -1,0 +1,6 @@
+module Pods_iea_sim {
+  umbrella header "Pods-iea_sim-umbrella.h"
+
+  export *
+  module * { export * }
+}
